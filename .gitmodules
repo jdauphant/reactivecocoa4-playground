@@ -1,0 +1,6 @@
+[submodule "Carthage/Checkouts/Result"]
+	path = Carthage/Checkouts/Result
+	url = ssh://git@github.com/antitypical/Result.git
+[submodule "Carthage/Checkouts/ReactiveCocoa"]
+	path = Carthage/Checkouts/ReactiveCocoa
+	url = ssh://git@github.com/ReactiveCocoa/ReactiveCocoa.git
